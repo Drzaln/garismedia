@@ -95,7 +95,7 @@ font-size: 60px;
 }
 
 @media (max-width: 465px){
-    .jarakbtnsatu {
+    .jarakbtndua {
         margin-top: 0;
     }
 }
@@ -116,6 +116,10 @@ font-size: 60px;
     }
     
     .jarakbtnsatu {
+        margin-top: 3em;
+    }
+    
+    .jarakbtndua {
         margin-top: 3em;
     }
 

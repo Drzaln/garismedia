@@ -94,7 +94,7 @@ h2 {
 font-size: 60px;
 }
 
-@media (min-width: 465px){
+@media (max-width: 465px){
     .jarakbtndua {
         margin-top: 0;
     }

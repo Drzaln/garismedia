@@ -94,7 +94,13 @@ h2 {
 font-size: 60px;
 }
 
-@media (max-width: 467px){
+@media (max-width: 465px){
+    .jarakbtnsatu {
+        margin-top: 0;
+    }
+}
+
+@media (max-width: 760px){
     h1 {
         font-size: 50px;
         color: #fff;

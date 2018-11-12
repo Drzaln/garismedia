@@ -94,12 +94,6 @@ h2 {
 font-size: 60px;
 }
 
-@media (max-width: 465px){
-    .jarakbtndua {
-        margin-top: 0;
-    }
-}
-
 @media (max-width: 760px){
     h1 {
         font-size: 50px;
@@ -140,5 +134,11 @@ font-size: 60px;
 
     .ukuranlg {
         margin-left: 1em;
+    }
+}
+
+@media (max-width: 435px){
+    .jarakbtndua {
+        margin-top: 0.7em !important;
     }
 }

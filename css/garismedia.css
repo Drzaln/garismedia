@@ -3,7 +3,7 @@ html {
   }
 
 body {
-    @font-face { font-family: SanFrancisco; src: url('SanFranciscoFont/SanFranciscoDisplay-Regular.otf'); }
+    @font-face { font-family: SanFrancisco; src: url('font/SanFranciscoDisplay-Regular.otf'); }
 }
 
 h1 {

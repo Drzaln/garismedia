@@ -3,7 +3,7 @@ html {
   }
 
 body {
-    @font-face { font-family: SanFrancisco; src: url('SanFranciscoFont/SanFranciscoDisplay-Regular.otf'); }
+    @font-face { font-family: SanFrancisco; src: url('font/SanFranciscoDisplay-Regular.otf'); }
 }
 
 h1 {
@@ -22,6 +22,10 @@ h2 {
 
 .container h2 {
     color: #fff;
+}
+
+.fontbesar{
+    font-size: 30px;
 }
 
 .line {
